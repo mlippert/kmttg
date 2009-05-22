@@ -1,4 +1,6 @@
 * text=auto !eol
+/.classpath -text
+/.project -text
 /build.xml -text
 images/expired-recording.png -text
 images/expires-soon-recording.png -text
