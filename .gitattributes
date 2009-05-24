@@ -8,6 +8,7 @@ images/in-progress-recording.png -text
 images/in-progress-transfer.png -text
 images/save-until-i-delete-recording.png -text
 lib/swinglabs-0.8.0.jar -text
+release/README.html -text
 release/encode/ff_h264_high_rate.enc -text
 release/encode/ff_h264_med_rate.enc -text
 release/encode/ff_ipod_high_res.enc -text
