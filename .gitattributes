@@ -57,6 +57,7 @@ src/com/tivo/kmttg/gui/sortableShow.java -text
 src/com/tivo/kmttg/gui/sortableSize.java -text
 src/com/tivo/kmttg/gui/taskInfo.java -text
 src/com/tivo/kmttg/gui/textpane.java -text
+src/com/tivo/kmttg/gui/tivoTab.java -text
 src/com/tivo/kmttg/install/Unzip.java -text
 src/com/tivo/kmttg/install/mainInstall.java -text
 src/com/tivo/kmttg/install/toolDownload.java -text
