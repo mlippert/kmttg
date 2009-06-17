@@ -87,6 +87,7 @@ src/com/tivo/kmttg/task/metadata.java -text
 src/com/tivo/kmttg/task/metadataTivo.java -text
 src/com/tivo/kmttg/task/qsfix.java -text
 src/com/tivo/kmttg/task/streamfix.java -text
+src/com/tivo/kmttg/task/vrdreview.java -text
 src/com/tivo/kmttg/util/ChildDataHandler.java -text
 src/com/tivo/kmttg/util/Entities.java -text
 src/com/tivo/kmttg/util/backgroundProcess.java -text
