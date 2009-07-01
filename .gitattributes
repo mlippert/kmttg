@@ -32,6 +32,7 @@ release/encode/hb_television.enc -text
 release/encode/hb_tivo_hd.enc -text
 release/encode/hb_tivo_sd.enc -text
 release/encode/hb_xbox360.enc -text
+release/encode/me_zen.enc -text
 release/kmttg -text
 release/service/conf/wrapper.conf -text
 release/service/win32/bin/lib/wrapper.dll -text
