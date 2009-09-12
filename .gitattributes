@@ -4,7 +4,6 @@
 /build.xml -text
 images/expired-recording.png -text
 images/expires-soon-recording.png -text
-images/folder.png -text
 images/in-progress-recording.png -text
 images/in-progress-transfer.png -text
 images/save-until-i-delete-recording.png -text
