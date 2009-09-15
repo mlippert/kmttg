@@ -2,6 +2,7 @@
 /.classpath -text
 /.project -text
 /build.xml -text
+images/copy-protected.png -text
 images/expired-recording.png -text
 images/expires-soon-recording.png -text
 images/folder.png -text
