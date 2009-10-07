@@ -8,6 +8,8 @@ images/expires-soon-recording.png -text
 images/folder.png -text
 images/in-progress-recording.png -text
 images/in-progress-transfer.png -text
+images/queued.png -text
+images/running.png -text
 images/save-until-i-delete-recording.png -text
 images/suggestion-recording.png -text
 lib/jmdns.jar -text
