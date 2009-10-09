@@ -12,6 +12,7 @@ images/queued.png -text
 images/running.png -text
 images/save-until-i-delete-recording.png -text
 images/suggestion-recording.png -text
+lib/Chart2D.jar -text
 lib/jmdns.jar -text
 lib/swinglabs-0.8.0.jar -text
 release/README.html -text
