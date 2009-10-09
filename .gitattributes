@@ -64,6 +64,7 @@ src/com/tivo/kmttg/gui/jobEntry.java -text
 src/com/tivo/kmttg/gui/jobTable.java -text
 src/com/tivo/kmttg/gui/nplTable.java -text
 src/com/tivo/kmttg/gui/sortableDate.java -text
+src/com/tivo/kmttg/gui/sortableDouble.java -text
 src/com/tivo/kmttg/gui/sortableShow.java -text
 src/com/tivo/kmttg/gui/sortableSize.java -text
 src/com/tivo/kmttg/gui/taskInfo.java -text
