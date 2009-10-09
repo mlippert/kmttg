@@ -52,6 +52,7 @@ release/service/win32/stop-kmttg-service.bat -text
 release/service/win32/uninstall-kmttg-service.bat -text
 src/com/tivo/kmttg/gui/autoLogView.java -text
 src/com/tivo/kmttg/gui/autoTableEntry.java -text
+src/com/tivo/kmttg/gui/bitrateTable.java -text
 src/com/tivo/kmttg/gui/combobox.java -text
 src/com/tivo/kmttg/gui/configAuto.java -text
 src/com/tivo/kmttg/gui/configMain.java -text
