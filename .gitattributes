@@ -27,6 +27,7 @@ release/encode/ff_tivo_sd.enc -text
 release/encode/ff_xbox360.enc -text
 release/encode/ff_zen.enc -text
 release/encode/ff_zune.enc -text
+release/encode/ff_zune_hd.enc -text
 release/encode/hb_animation.enc -text
 release/encode/hb_appletv.enc -text
 release/encode/hb_film.enc -text
