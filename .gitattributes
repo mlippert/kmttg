@@ -18,6 +18,7 @@ lib/swinglabs-0.8.0.jar -text
 release/README.html -text
 release/encode/ff_h264_high_rate.enc -text
 release/encode/ff_h264_med_rate.enc -text
+release/encode/ff_ipad.enc -text
 release/encode/ff_iphone.enc -text
 release/encode/ff_ipod_high_res.enc -text
 release/encode/ff_ipod_low_res.enc -text
