@@ -112,6 +112,7 @@ src/com/tivo/kmttg/util/ChildDataHandler.java -text
 src/com/tivo/kmttg/util/Entities.java -text
 src/com/tivo/kmttg/util/backgroundProcess.java -text
 src/com/tivo/kmttg/util/debug.java -text
+src/com/tivo/kmttg/util/ffmpeg.java -text
 src/com/tivo/kmttg/util/file.java -text
 src/com/tivo/kmttg/util/log.java -text
 src/com/tivo/kmttg/util/string.java -text
