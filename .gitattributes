@@ -20,6 +20,7 @@ release/encode/ff_h264_high_rate.enc -text
 release/encode/ff_h264_med_rate.enc -text
 release/encode/ff_ipad.enc -text
 release/encode/ff_iphone.enc -text
+release/encode/ff_ipod_h264.enc -text
 release/encode/ff_ipod_high_res.enc -text
 release/encode/ff_ipod_low_res.enc -text
 release/encode/ff_ps3.enc -text
