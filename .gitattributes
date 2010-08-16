@@ -92,6 +92,7 @@ src/com/tivo/kmttg/main/jobMonitor.java -text
 src/com/tivo/kmttg/main/kmttg.java -text
 src/com/tivo/kmttg/main/mdns.java -text
 src/com/tivo/kmttg/main/myExceptionHandler.java -text
+src/com/tivo/kmttg/main/telnet.java -text
 src/com/tivo/kmttg/main/tivoFileName.java -text
 src/com/tivo/kmttg/task/NowPlaying.java -text
 src/com/tivo/kmttg/task/adcut.java -text
