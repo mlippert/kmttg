@@ -81,12 +81,14 @@ src/com/tivo/kmttg/gui/tivoTab.java -text
 src/com/tivo/kmttg/install/Unzip.java -text
 src/com/tivo/kmttg/install/mainInstall.java -text
 src/com/tivo/kmttg/install/toolDownload.java -text
+src/com/tivo/kmttg/main/CookieManager.java -text
 src/com/tivo/kmttg/main/auto.java -text
 src/com/tivo/kmttg/main/autoConfig.java -text
 src/com/tivo/kmttg/main/autoEntry.java -text
 src/com/tivo/kmttg/main/beacon.java -text
 src/com/tivo/kmttg/main/config.java -text
 src/com/tivo/kmttg/main/encodeConfig.java -text
+src/com/tivo/kmttg/main/http.java -text
 src/com/tivo/kmttg/main/jobData.java -text
 src/com/tivo/kmttg/main/jobMonitor.java -text
 src/com/tivo/kmttg/main/kmttg.java -text
