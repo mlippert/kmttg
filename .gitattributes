@@ -1,6 +1,12 @@
 * text=auto !eol
 /.classpath -text
 /.project -text
+VRDscripts/adcut.vbs -text
+VRDscripts/adscan.vbs -text
+VRDscripts/createShortClip.vbs -text
+VRDscripts/encode.vbs -text
+VRDscripts/getProfiles.vbs -text
+VRDscripts/qsfix.vbs -text
 /build.xml -text
 images/copy-protected.png -text
 images/expired-recording.png -text
