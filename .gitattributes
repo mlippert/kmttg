@@ -47,6 +47,7 @@ release/encode/hb_ps3.enc -text
 release/encode/hb_psp.enc -text
 release/encode/hb_television.enc -text
 release/encode/hb_tivo_hd.enc -text
+release/encode/hb_tivo_hd_crf.enc -text
 release/encode/hb_tivo_sd.enc -text
 release/encode/hb_xbox360.enc -text
 release/encode/me_bb9k.enc -text
