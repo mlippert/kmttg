@@ -115,6 +115,7 @@ src/com/tivo/kmttg/task/comskip.java -text
 src/com/tivo/kmttg/task/custom.java -text
 src/com/tivo/kmttg/task/decrypt.java -text
 src/com/tivo/kmttg/task/download.java -text
+src/com/tivo/kmttg/task/download_decrypt.java -text
 src/com/tivo/kmttg/task/encode.java -text
 src/com/tivo/kmttg/task/javaNowPlaying.java -text
 src/com/tivo/kmttg/task/javadownload.java -text
@@ -128,12 +129,15 @@ src/com/tivo/kmttg/task/vrdencode.java -text
 src/com/tivo/kmttg/task/vrdreview.java -text
 src/com/tivo/kmttg/util/ChildDataHandler.java -text
 src/com/tivo/kmttg/util/Entities.java -text
+src/com/tivo/kmttg/util/PipeHandler.java -text
 src/com/tivo/kmttg/util/backgroundProcess.java -text
 src/com/tivo/kmttg/util/createMeta.java -text
 src/com/tivo/kmttg/util/debug.java -text
 src/com/tivo/kmttg/util/ffmpeg.java -text
 src/com/tivo/kmttg/util/file.java -text
+src/com/tivo/kmttg/util/genericProcess.java -text
 src/com/tivo/kmttg/util/log.java -text
 src/com/tivo/kmttg/util/parseNPL.java -text
+src/com/tivo/kmttg/util/pipedProcesses.java -text
 src/com/tivo/kmttg/util/string.java -text
 /version -text
