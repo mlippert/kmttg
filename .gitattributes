@@ -116,6 +116,7 @@ src/com/tivo/kmttg/main/myExceptionHandler.java -text
 src/com/tivo/kmttg/main/telnet.java -text
 src/com/tivo/kmttg/main/tivoFileName.java -text
 src/com/tivo/kmttg/rpc/Remote.java -text
+src/com/tivo/kmttg/rpc/rnpl.java -text
 src/com/tivo/kmttg/task/NowPlaying.java -text
 src/com/tivo/kmttg/task/adcut.java -text
 src/com/tivo/kmttg/task/adscan.java -text
