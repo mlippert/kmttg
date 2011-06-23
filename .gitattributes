@@ -67,6 +67,7 @@ release/service/win32/stop-kmttg-service.bat -text
 release/service/win32/uninstall-kmttg-service.bat -text
 src/com/tivo/kmttg/JSON/JSONArray.java -text
 src/com/tivo/kmttg/JSON/JSONException.java -text
+src/com/tivo/kmttg/JSON/JSONFile.java -text
 src/com/tivo/kmttg/JSON/JSONObject.java -text
 src/com/tivo/kmttg/JSON/JSONString.java -text
 src/com/tivo/kmttg/JSON/JSONStringer.java -text
