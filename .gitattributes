@@ -77,6 +77,7 @@ src/com/tivo/kmttg/gui/autoLogView.java -text
 src/com/tivo/kmttg/gui/autoTableEntry.java -text
 src/com/tivo/kmttg/gui/bitrateTable.java -text
 src/com/tivo/kmttg/gui/cancelledTable.java -text
+src/com/tivo/kmttg/gui/channelTable.java -text
 src/com/tivo/kmttg/gui/combobox.java -text
 src/com/tivo/kmttg/gui/configAuto.java -text
 src/com/tivo/kmttg/gui/configMain.java -text
@@ -88,6 +89,7 @@ src/com/tivo/kmttg/gui/jobEntry.java -text
 src/com/tivo/kmttg/gui/jobTable.java -text
 src/com/tivo/kmttg/gui/nplTable.java -text
 src/com/tivo/kmttg/gui/remotegui.java -text
+src/com/tivo/kmttg/gui/sortableChannel.java -text
 src/com/tivo/kmttg/gui/sortableDate.java -text
 src/com/tivo/kmttg/gui/sortableDouble.java -text
 src/com/tivo/kmttg/gui/sortableDuration.java -text
