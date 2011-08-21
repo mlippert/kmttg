@@ -192,6 +192,7 @@ src/com/tivo/kmttg/task/vrdencode.java -text
 src/com/tivo/kmttg/task/vrdreview.java -text
 src/com/tivo/kmttg/util/ChildDataHandler.java -text
 src/com/tivo/kmttg/util/Entities.java -text
+src/com/tivo/kmttg/util/TwoWayHashmap.java -text
 src/com/tivo/kmttg/util/backgroundProcess.java -text
 src/com/tivo/kmttg/util/createMeta.java -text
 src/com/tivo/kmttg/util/debug.java -text
