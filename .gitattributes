@@ -115,6 +115,7 @@ src/com/tivo/kmttg/JSON/JSONStringer.java -text
 src/com/tivo/kmttg/JSON/JSONTokener.java -text
 src/com/tivo/kmttg/JSON/JSONWriter.java -text
 src/com/tivo/kmttg/gui/AccumulativeRunnable.java -text
+src/com/tivo/kmttg/gui/FileFilterSP.java -text
 src/com/tivo/kmttg/gui/SwingPropertyChangeSupport.java -text
 src/com/tivo/kmttg/gui/SwingWorker.java -text
 src/com/tivo/kmttg/gui/autoLogView.java -text
