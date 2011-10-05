@@ -134,7 +134,9 @@ src/com/tivo/kmttg/gui/jobEntry.java -text
 src/com/tivo/kmttg/gui/jobTable.java -text
 src/com/tivo/kmttg/gui/nplTable.java -text
 src/com/tivo/kmttg/gui/premiereTable.java -text
+src/com/tivo/kmttg/gui/recordOptions.java -text
 src/com/tivo/kmttg/gui/remotegui.java -text
+src/com/tivo/kmttg/gui/searchTable.java -text
 src/com/tivo/kmttg/gui/sortableChannel.java -text
 src/com/tivo/kmttg/gui/sortableDate.java -text
 src/com/tivo/kmttg/gui/sortableDouble.java -text
