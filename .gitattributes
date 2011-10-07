@@ -129,6 +129,7 @@ src/com/tivo/kmttg/gui/configMain.java -text
 src/com/tivo/kmttg/gui/fileBrowser.java -text
 src/com/tivo/kmttg/gui/freeSpace.java -text
 src/com/tivo/kmttg/gui/gui.java -text
+src/com/tivo/kmttg/gui/guideTable.java -text
 src/com/tivo/kmttg/gui/help.java -text
 src/com/tivo/kmttg/gui/jobEntry.java -text
 src/com/tivo/kmttg/gui/jobTable.java -text
