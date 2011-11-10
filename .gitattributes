@@ -23,6 +23,7 @@ release/VRDscripts/encode.vbs -text
 release/VRDscripts/getProfiles.vbs -text
 release/VRDscripts/qsfix.vbs -text
 release/encode/ff_droid.enc -text
+release/encode/ff_evo.enc -text
 release/encode/ff_h264_high_rate.enc -text
 release/encode/ff_h264_med_rate.enc -text
 release/encode/ff_ipad.enc -text
