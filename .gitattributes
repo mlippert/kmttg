@@ -43,6 +43,7 @@ release/encode/ff_zune_mp4.enc -text
 release/encode/hb_animation.enc -text
 release/encode/hb_appletv.enc -text
 release/encode/hb_appletv2.enc -text
+release/encode/hb_appletv2_srt.enc -text
 release/encode/hb_film.enc -text
 release/encode/hb_iphone.enc -text
 release/encode/hb_ipod.enc -text
