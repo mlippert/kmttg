@@ -184,7 +184,6 @@ src/com/tivo/kmttg/task/comcut.java -text
 src/com/tivo/kmttg/task/comskip.java -text
 src/com/tivo/kmttg/task/custom.java -text
 src/com/tivo/kmttg/task/decrypt.java -text
-src/com/tivo/kmttg/task/demux.java -text
 src/com/tivo/kmttg/task/download.java -text
 src/com/tivo/kmttg/task/download_decrypt.java -text
 src/com/tivo/kmttg/task/encode.java -text
@@ -198,7 +197,6 @@ src/com/tivo/kmttg/task/projectxcut.java -text
 src/com/tivo/kmttg/task/push.java -text
 src/com/tivo/kmttg/task/qsfix.java -text
 src/com/tivo/kmttg/task/remote.java -text
-src/com/tivo/kmttg/task/remux.java -text
 src/com/tivo/kmttg/task/streamfix.java -text
 src/com/tivo/kmttg/task/vrdencode.java -text
 src/com/tivo/kmttg/task/vrdreview.java -text
