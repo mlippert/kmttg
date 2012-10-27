@@ -130,6 +130,7 @@ src/com/tivo/kmttg/gui/channelTable.java -text
 src/com/tivo/kmttg/gui/combobox.java -text
 src/com/tivo/kmttg/gui/configAuto.java -text
 src/com/tivo/kmttg/gui/configMain.java -text
+src/com/tivo/kmttg/gui/deletedTable.java -text
 src/com/tivo/kmttg/gui/fileBrowser.java -text
 src/com/tivo/kmttg/gui/freeSpace.java -text
 src/com/tivo/kmttg/gui/gui.java -text
