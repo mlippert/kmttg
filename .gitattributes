@@ -158,6 +158,7 @@ src/com/tivo/kmttg/gui/taskInfo.java -text
 src/com/tivo/kmttg/gui/textpane.java -text
 src/com/tivo/kmttg/gui/tivoTab.java -text
 src/com/tivo/kmttg/gui/todoTable.java -text
+src/com/tivo/kmttg/gui/wlOptions.java -text
 src/com/tivo/kmttg/install/Unzip.java -text
 src/com/tivo/kmttg/install/mainInstall.java -text
 src/com/tivo/kmttg/install/toolDownload.java -text
