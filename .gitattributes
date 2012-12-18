@@ -177,6 +177,9 @@ src/com/tivo/kmttg/main/mdns.java -text
 src/com/tivo/kmttg/main/myExceptionHandler.java -text
 src/com/tivo/kmttg/main/telnet.java -text
 src/com/tivo/kmttg/main/tivoFileName.java -text
+src/com/tivo/kmttg/mind/EasySSLHelper.java -text
+src/com/tivo/kmttg/mind/Mind.java -text
+src/com/tivo/kmttg/mind/SimpleCookieManager.java -text
 src/com/tivo/kmttg/rpc/Remote.java -text
 src/com/tivo/kmttg/rpc/rnpl.java -text
 src/com/tivo/kmttg/task/NowPlaying.java -text
