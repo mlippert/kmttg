@@ -121,6 +121,7 @@ src/com/tivo/kmttg/JSON/JSONWriter.java -text
 src/com/tivo/kmttg/gui/AccumulativeRunnable.java -text
 src/com/tivo/kmttg/gui/ColorColumnRenderer.java -text
 src/com/tivo/kmttg/gui/FileFilterSP.java -text
+src/com/tivo/kmttg/gui/Pushes.java -text
 src/com/tivo/kmttg/gui/SwingPropertyChangeSupport.java -text
 src/com/tivo/kmttg/gui/SwingWorker.java -text
 src/com/tivo/kmttg/gui/TableUtil.java -text
@@ -142,6 +143,7 @@ src/com/tivo/kmttg/gui/jobEntry.java -text
 src/com/tivo/kmttg/gui/jobTable.java -text
 src/com/tivo/kmttg/gui/nplTable.java -text
 src/com/tivo/kmttg/gui/premiereTable.java -text
+src/com/tivo/kmttg/gui/pushTable.java -text
 src/com/tivo/kmttg/gui/recordOptions.java -text
 src/com/tivo/kmttg/gui/remotegui.java -text
 src/com/tivo/kmttg/gui/searchTable.java -text
