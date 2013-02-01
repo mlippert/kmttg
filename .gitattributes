@@ -194,6 +194,7 @@ src/com/tivo/kmttg/task/autotune.java -text
 src/com/tivo/kmttg/task/captions.java -text
 src/com/tivo/kmttg/task/comcut.java -text
 src/com/tivo/kmttg/task/comskip.java -text
+src/com/tivo/kmttg/task/comskip_review.java -text
 src/com/tivo/kmttg/task/custom.java -text
 src/com/tivo/kmttg/task/decrypt.java -text
 src/com/tivo/kmttg/task/download.java -text
