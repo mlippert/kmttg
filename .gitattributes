@@ -109,6 +109,7 @@ release/service/win32/kmttg-cmd.bat -text
 release/service/win32/start-kmttg-service.bat -text
 release/service/win32/stop-kmttg-service.bat -text
 release/service/win32/uninstall-kmttg-service.bat -text
+slingbox/rec350.pl -text
 src/com/tivo/kmttg/JSON/JSONArray.java -text
 src/com/tivo/kmttg/JSON/JSONException.java -text
 src/com/tivo/kmttg/JSON/JSONFile.java -text
@@ -149,6 +150,7 @@ src/com/tivo/kmttg/gui/recordOptions.java -text
 src/com/tivo/kmttg/gui/remotegui.java -text
 src/com/tivo/kmttg/gui/resolveConflict.java -text
 src/com/tivo/kmttg/gui/searchTable.java -text
+src/com/tivo/kmttg/gui/slingboxgui.java -text
 src/com/tivo/kmttg/gui/sortableChannel.java -text
 src/com/tivo/kmttg/gui/sortableDate.java -text
 src/com/tivo/kmttg/gui/sortableDouble.java -text
@@ -212,6 +214,7 @@ src/com/tivo/kmttg/task/projectxcut.java -text
 src/com/tivo/kmttg/task/push.java -text
 src/com/tivo/kmttg/task/qsfix.java -text
 src/com/tivo/kmttg/task/remote.java -text
+src/com/tivo/kmttg/task/slingbox.java -text
 src/com/tivo/kmttg/task/streamfix.java -text
 src/com/tivo/kmttg/task/vrdencode.java -text
 src/com/tivo/kmttg/task/vrdreview.java -text
