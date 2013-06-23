@@ -46,6 +46,7 @@ release/encode/hb_appletv.enc -text
 release/encode/hb_appletv2.enc -text
 release/encode/hb_appletv2_srt.enc -text
 release/encode/hb_film.enc -text
+release/encode/hb_ipad.enc -text
 release/encode/hb_iphone.enc -text
 release/encode/hb_ipod.enc -text
 release/encode/hb_ps3.enc -text
