@@ -125,6 +125,7 @@ src/com/tivo/kmttg/JSON/XMLTokener.java -text
 src/com/tivo/kmttg/gui/AccumulativeRunnable.java -text
 src/com/tivo/kmttg/gui/ColorColumnRenderer.java -text
 src/com/tivo/kmttg/gui/FileFilterSP.java -text
+src/com/tivo/kmttg/gui/PopupPair.java -text
 src/com/tivo/kmttg/gui/Pushes.java -text
 src/com/tivo/kmttg/gui/SwingPropertyChangeSupport.java -text
 src/com/tivo/kmttg/gui/SwingWorker.java -text
