@@ -123,6 +123,7 @@ src/com/tivo/kmttg/JSON/JSONWriter.java -text
 src/com/tivo/kmttg/JSON/XML.java -text
 src/com/tivo/kmttg/JSON/XMLTokener.java -text
 src/com/tivo/kmttg/gui/AccumulativeRunnable.java -text
+src/com/tivo/kmttg/gui/AdvSearch.java -text
 src/com/tivo/kmttg/gui/ColorColumnRenderer.java -text
 src/com/tivo/kmttg/gui/FileFilterSP.java -text
 src/com/tivo/kmttg/gui/PopupHandler.java -text
