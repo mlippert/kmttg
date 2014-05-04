@@ -150,6 +150,7 @@ src/com/tivo/kmttg/gui/guideTable.java -text
 src/com/tivo/kmttg/gui/help.java -text
 src/com/tivo/kmttg/gui/jobEntry.java -text
 src/com/tivo/kmttg/gui/jobTable.java -text
+src/com/tivo/kmttg/gui/mRecordOptions.java -text
 src/com/tivo/kmttg/gui/nplTable.java -text
 src/com/tivo/kmttg/gui/premiereTable.java -text
 src/com/tivo/kmttg/gui/pushTable.java -text
