@@ -210,6 +210,7 @@ src/com/tivo/kmttg/task/custom.java -text
 src/com/tivo/kmttg/task/decrypt.java -text
 src/com/tivo/kmttg/task/download.java -text
 src/com/tivo/kmttg/task/download_decrypt.java -text
+src/com/tivo/kmttg/task/dsd.java -text
 src/com/tivo/kmttg/task/encode.java -text
 src/com/tivo/kmttg/task/javaNowPlaying.java -text
 src/com/tivo/kmttg/task/javadownload.java -text
