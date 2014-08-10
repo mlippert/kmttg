@@ -23,6 +23,7 @@ release/VRDscripts/createShortClip.vbs -text
 release/VRDscripts/encode.vbs -text
 release/VRDscripts/getProfiles.vbs -text
 release/VRDscripts/qsfix.vbs -text
+release/VRDscripts/vrdreview.vbs -text
 release/encode/ff_droid.enc -text
 release/encode/ff_evo.enc -text
 release/encode/ff_h264_high_rate.enc -text
