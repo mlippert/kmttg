@@ -76,6 +76,14 @@ release/rc_images/B.png -text
 release/rc_images/C.png -text
 release/rc_images/D.png -text
 release/rc_images/advance.png -text
+release/rc_images/button_down.gif -text
+release/rc_images/button_forward.gif -text
+release/rc_images/button_left.gif -text
+release/rc_images/button_play.gif -text
+release/rc_images/button_reverse.gif -text
+release/rc_images/button_right.gif -text
+release/rc_images/button_slow.gif -text
+release/rc_images/button_up.gif -text
 release/rc_images/channel_down.png -text
 release/rc_images/channel_label.png -text
 release/rc_images/channel_up.png -text
