@@ -406,6 +406,7 @@ src/com/tivo/kmttg/httpserver/AvailableSocket.java -text
 src/com/tivo/kmttg/httpserver/HTTPServer.java -text
 src/com/tivo/kmttg/httpserver/Piper.java -text
 src/com/tivo/kmttg/httpserver/SocketProcessInputStream.java -text
+src/com/tivo/kmttg/httpserver/TiVoTranscode.java -text
 src/com/tivo/kmttg/httpserver/Transcode.java -text
 src/com/tivo/kmttg/httpserver/TranscodeTemplates.java -text
 src/com/tivo/kmttg/httpserver/kmttgServer.java -text
