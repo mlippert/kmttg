@@ -416,6 +416,7 @@ src/com/tivo/kmttg/gui/todoTable.java -text
 src/com/tivo/kmttg/gui/wlOptions.java -text
 src/com/tivo/kmttg/httpserver/AvailableSocket.java -text
 src/com/tivo/kmttg/httpserver/HTTPServer.java -text
+src/com/tivo/kmttg/httpserver/Hlsutils.java -text
 src/com/tivo/kmttg/httpserver/Piper.java -text
 src/com/tivo/kmttg/httpserver/SocketProcessInputStream.java -text
 src/com/tivo/kmttg/httpserver/TiVoTranscode.java -text
