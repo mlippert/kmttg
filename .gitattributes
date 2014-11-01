@@ -345,7 +345,6 @@ release/web/dialog/images/warning_bg.jpg -text
 release/web/dialog/images/warning_header.gif -text
 release/web/images/details_close.png -text
 release/web/images/details_open.png -text
-release/web/index.html -text
 release/web/js/String.js -text
 release/web/js/jquery-1.11.1.js -text
 release/web/js/jquery.dataTables.rowReordering.js -text
@@ -353,7 +352,6 @@ release/web/js/rpc/Info.js -text
 release/web/js/rpc/Remote.js -text
 release/web/js/rpc/SeasonPasses.js -text
 release/web/js/rpc/Stream.js -text
-release/web/navigation.html -text
 src/com/tivo/kmttg/JSON/JSONArray.java -text
 src/com/tivo/kmttg/JSON/JSONException.java -text
 src/com/tivo/kmttg/JSON/JSONFile.java -text
