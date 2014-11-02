@@ -354,6 +354,7 @@ release/web/js/rpc/Remote.js -text
 release/web/js/rpc/SeasonPasses.js -text
 release/web/js/rpc/Stream.js -text
 release/web/js/rpc/ToDo.js -text
+release/web/js/rpc/util.js -text
 src/com/tivo/kmttg/JSON/JSONArray.java -text
 src/com/tivo/kmttg/JSON/JSONException.java -text
 src/com/tivo/kmttg/JSON/JSONFile.java -text
