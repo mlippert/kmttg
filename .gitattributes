@@ -327,6 +327,7 @@ release/web/DataTables-1.10.3/media/js/jquery.dataTables.min.js -text
 release/web/DataTables-1.10.3/media/js/jquery.js -text
 release/web/DataTables-1.10.3/package.json -text
 release/web/Info.html -text
+release/web/Jobs.html -text
 release/web/Remote.html -text
 release/web/SeasonPasses.html -text
 release/web/Stream.html -text
@@ -350,6 +351,7 @@ release/web/js/String.js -text
 release/web/js/jquery-1.11.1.js -text
 release/web/js/jquery.dataTables.rowReordering.js -text
 release/web/js/rpc/Info.js -text
+release/web/js/rpc/Jobs.js -text
 release/web/js/rpc/Remote.js -text
 release/web/js/rpc/SeasonPasses.js -text
 release/web/js/rpc/Stream.js -text
