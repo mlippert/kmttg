@@ -124,6 +124,7 @@ release/service/win32/uninstall-kmttg-service.bat -text
 release/slingbox/rec2.pl -text
 release/slingbox/rec2a.pl -text
 release/slingbox/rec350.pl -text
+release/web/Browser.html -text
 release/web/DataTables-1.10.3/Contributing.md -text
 release/web/DataTables-1.10.3/Readme.md -text
 release/web/DataTables-1.10.3/bower.json -text
@@ -350,6 +351,7 @@ release/web/images/details_open.png -text
 release/web/js/String.js -text
 release/web/js/jquery-1.11.1.js -text
 release/web/js/jquery.dataTables.rowReordering.js -text
+release/web/js/rpc/Browser.js -text
 release/web/js/rpc/Info.js -text
 release/web/js/rpc/Jobs.js -text
 release/web/js/rpc/Remote.js -text
