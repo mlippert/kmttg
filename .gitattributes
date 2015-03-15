@@ -414,6 +414,7 @@ src/com/tivo/kmttg/gui/sortableShow.java -text
 src/com/tivo/kmttg/gui/sortableSize.java -text
 src/com/tivo/kmttg/gui/spOptions.java -text
 src/com/tivo/kmttg/gui/spTable.java -text
+src/com/tivo/kmttg/gui/streamTable.java -text
 src/com/tivo/kmttg/gui/taskInfo.java -text
 src/com/tivo/kmttg/gui/textpane.java -text
 src/com/tivo/kmttg/gui/tivoTab.java -text
