@@ -23,7 +23,6 @@ release/VRDscripts/getProfiles.vbs -text
 release/VRDscripts/qsfix.vbs -text
 release/VRDscripts/vrdreview.vbs -text
 release/css/MistSliver.css -text
-release/css/caspian.css -text
 release/css/default.css -text
 release/css/kmttg.css -text
 release/css/mac_os.css -text
