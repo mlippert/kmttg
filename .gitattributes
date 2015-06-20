@@ -432,6 +432,7 @@ src/com/tivo/kmttg/gui/table/bitrateTable.java -text
 src/com/tivo/kmttg/gui/table/cancelledTable.java -text
 src/com/tivo/kmttg/gui/table/deletedTable.java -text
 src/com/tivo/kmttg/gui/table/guideTable.java -text
+src/com/tivo/kmttg/gui/table/imageCell.java -text
 src/com/tivo/kmttg/gui/table/jobTable.java -text
 src/com/tivo/kmttg/gui/table/nplTable.java -text
 src/com/tivo/kmttg/gui/table/premiereTable.java -text
