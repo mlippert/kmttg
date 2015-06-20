@@ -25,7 +25,6 @@ release/VRDscripts/vrdreview.vbs -text
 release/css/MistSliver.css -text
 release/css/default.css -text
 release/css/kmttg.css -text
-release/css/mac_os.css -text
 release/css/metro_light.css -text
 release/encode/ff_droid.enc -text
 release/encode/ff_evo.enc -text
