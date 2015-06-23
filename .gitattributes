@@ -483,6 +483,7 @@ src/com/tivo/kmttg/task/adcut.java -text
 src/com/tivo/kmttg/task/adscan.java -text
 src/com/tivo/kmttg/task/atomic.java -text
 src/com/tivo/kmttg/task/autotune.java -text
+src/com/tivo/kmttg/task/baseTask.java -text
 src/com/tivo/kmttg/task/captions.java -text
 src/com/tivo/kmttg/task/comcut.java -text
 src/com/tivo/kmttg/task/comskip.java -text
