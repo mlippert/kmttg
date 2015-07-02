@@ -22,10 +22,14 @@ release/VRDscripts/encode.vbs -text
 release/VRDscripts/getProfiles.vbs -text
 release/VRDscripts/qsfix.vbs -text
 release/VRDscripts/vrdreview.vbs -text
-release/css/MistSliver.css -text
+release/css/blue.css -text
 release/css/default.css -text
+release/css/green.css -text
 release/css/kmttg.css -text
 release/css/metro_light.css -text
+release/css/navy.css -text
+release/css/orange.css -text
+release/css/purple.css -text
 release/encode/ff_droid.enc -text
 release/encode/ff_evo.enc -text
 release/encode/ff_h264_high_rate.enc -text
