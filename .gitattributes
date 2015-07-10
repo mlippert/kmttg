@@ -508,6 +508,7 @@ src/com/tivo/kmttg/task/vrdencode.java -text
 src/com/tivo/kmttg/task/vrdreview.java -text
 src/com/tivo/kmttg/util/ChildDataHandler.java -text
 src/com/tivo/kmttg/util/Entities.java -text
+src/com/tivo/kmttg/util/NplItemXML.java -text
 src/com/tivo/kmttg/util/ProjectX.java -text
 src/com/tivo/kmttg/util/TwoWayHashmap.java -text
 src/com/tivo/kmttg/util/Xml.java -text
