@@ -119,6 +119,7 @@ release/service/win32/bin/lib/wrappertest.jar -text
 release/service/win32/bin/wrapper.exe -text
 release/service/win32/install-kmttg-service.bat -text
 release/service/win32/kmttg-cmd.bat -text
+release/service/win32/runasadmin.vbs -text
 release/service/win32/start-kmttg-service.bat -text
 release/service/win32/stop-kmttg-service.bat -text
 release/service/win32/uninstall-kmttg-service.bat -text
