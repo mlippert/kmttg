@@ -30,6 +30,7 @@ release/css/metro_light.css -text
 release/css/navy.css -text
 release/css/orange.css -text
 release/css/purple.css -text
+release/css/white.css -text
 release/encode/ff_h264_high_rate.enc -text
 release/encode/ff_h264_med_rate.enc -text
 release/encode/ff_mobile_1080p.enc -text
