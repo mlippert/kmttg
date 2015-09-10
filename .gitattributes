@@ -372,7 +372,6 @@ src/com/tivo/kmttg/JSON/JSONTokener.java -text
 src/com/tivo/kmttg/JSON/JSONWriter.java -text
 src/com/tivo/kmttg/JSON/XML.java -text
 src/com/tivo/kmttg/JSON/XMLTokener.java -text
-src/com/tivo/kmttg/gui/MyButton.java -text
 src/com/tivo/kmttg/gui/MyTooltip.java -text
 src/com/tivo/kmttg/gui/PopupHandler.java -text
 src/com/tivo/kmttg/gui/PopupPair.java -text
