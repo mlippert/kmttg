@@ -506,6 +506,8 @@ src/com/tivo/kmttg/task/qsfix.java -text
 src/com/tivo/kmttg/task/remote.java -text
 src/com/tivo/kmttg/task/slingbox.java -text
 src/com/tivo/kmttg/task/streamfix.java -text
+src/com/tivo/kmttg/task/tdownload_decrypt.java -text
+src/com/tivo/kmttg/task/tivolibre.java -text
 src/com/tivo/kmttg/task/vrdencode.java -text
 src/com/tivo/kmttg/task/vrdreview.java -text
 src/com/tivo/kmttg/util/ChildDataHandler.java -text
