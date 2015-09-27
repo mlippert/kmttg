@@ -405,6 +405,7 @@ src/com/tivo/kmttg/gui/help.java -text
 src/com/tivo/kmttg/gui/jobEntry.java -text
 src/com/tivo/kmttg/gui/remote/PanelKey.java -text
 src/com/tivo/kmttg/gui/remote/cancelled.java -text
+src/com/tivo/kmttg/gui/remote/channels.java -text
 src/com/tivo/kmttg/gui/remote/deleted.java -text
 src/com/tivo/kmttg/gui/remote/guide.java -text
 src/com/tivo/kmttg/gui/remote/info.java -text
@@ -430,6 +431,7 @@ src/com/tivo/kmttg/gui/table/TableUtil.java -text
 src/com/tivo/kmttg/gui/table/autoTable.java -text
 src/com/tivo/kmttg/gui/table/bitrateTable.java -text
 src/com/tivo/kmttg/gui/table/cancelledTable.java -text
+src/com/tivo/kmttg/gui/table/channelsTable.java -text
 src/com/tivo/kmttg/gui/table/deletedTable.java -text
 src/com/tivo/kmttg/gui/table/guideTable.java -text
 src/com/tivo/kmttg/gui/table/imageCell.java -text
