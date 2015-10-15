@@ -390,6 +390,7 @@ src/com/tivo/kmttg/gui/comparator/StringChannelComparator.java -text
 src/com/tivo/kmttg/gui/dialog/AdvSearch.java -text
 src/com/tivo/kmttg/gui/dialog/Pushes.java -text
 src/com/tivo/kmttg/gui/dialog/ShowDetails.java -text
+src/com/tivo/kmttg/gui/dialog/SkipDialog.java -text
 src/com/tivo/kmttg/gui/dialog/autoLogView.java -text
 src/com/tivo/kmttg/gui/dialog/autoTableEntry.java -text
 src/com/tivo/kmttg/gui/dialog/configAuto.java -text
@@ -428,6 +429,7 @@ src/com/tivo/kmttg/gui/sortable/sortableDuration.java -text
 src/com/tivo/kmttg/gui/sortable/sortableInt.java -text
 src/com/tivo/kmttg/gui/sortable/sortableShow.java -text
 src/com/tivo/kmttg/gui/sortable/sortableSize.java -text
+src/com/tivo/kmttg/gui/sortable/sortableString.java -text
 src/com/tivo/kmttg/gui/table/TableUtil.java -text
 src/com/tivo/kmttg/gui/table/autoTable.java -text
 src/com/tivo/kmttg/gui/table/bitrateTable.java -text
@@ -441,6 +443,7 @@ src/com/tivo/kmttg/gui/table/nplTable.java -text
 src/com/tivo/kmttg/gui/table/premiereTable.java -text
 src/com/tivo/kmttg/gui/table/pushTable.java -text
 src/com/tivo/kmttg/gui/table/searchTable.java -text
+src/com/tivo/kmttg/gui/table/skipTable.java -text
 src/com/tivo/kmttg/gui/table/spTable.java -text
 src/com/tivo/kmttg/gui/table/streamTable.java -text
 src/com/tivo/kmttg/gui/table/thumbsTable.java -text
