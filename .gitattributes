@@ -512,6 +512,7 @@ src/com/tivo/kmttg/task/projectxcut.java -text
 src/com/tivo/kmttg/task/push.java -text
 src/com/tivo/kmttg/task/qsfix.java -text
 src/com/tivo/kmttg/task/remote.java -text
+src/com/tivo/kmttg/task/skipdetect.java -text
 src/com/tivo/kmttg/task/slingbox.java -text
 src/com/tivo/kmttg/task/streamfix.java -text
 src/com/tivo/kmttg/task/tdownload_decrypt.java -text
