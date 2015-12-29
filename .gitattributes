@@ -510,8 +510,6 @@ src/com/tivo/kmttg/task/javametadata.java -text
 src/com/tivo/kmttg/task/jdownload_decrypt.java -text
 src/com/tivo/kmttg/task/metadata.java -text
 src/com/tivo/kmttg/task/metadataTivo.java -text
-src/com/tivo/kmttg/task/projectx.java -text
-src/com/tivo/kmttg/task/projectxcut.java -text
 src/com/tivo/kmttg/task/push.java -text
 src/com/tivo/kmttg/task/qsfix.java -text
 src/com/tivo/kmttg/task/remote.java -text
@@ -525,7 +523,6 @@ src/com/tivo/kmttg/task/vrdreview.java -text
 src/com/tivo/kmttg/util/ChildDataHandler.java -text
 src/com/tivo/kmttg/util/Entities.java -text
 src/com/tivo/kmttg/util/NplItemXML.java -text
-src/com/tivo/kmttg/util/ProjectX.java -text
 src/com/tivo/kmttg/util/TwoWayHashmap.java -text
 src/com/tivo/kmttg/util/Xml.java -text
 src/com/tivo/kmttg/util/backgroundProcess.java -text
