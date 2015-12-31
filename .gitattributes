@@ -506,7 +506,6 @@ src/com/tivo/kmttg/task/javaNowPlaying.java -text
 src/com/tivo/kmttg/task/javadownload.java -text
 src/com/tivo/kmttg/task/javametadata.java -text
 src/com/tivo/kmttg/task/jdownload_decrypt.java -text
-src/com/tivo/kmttg/task/metadata.java -text
 src/com/tivo/kmttg/task/metadataTivo.java -text
 src/com/tivo/kmttg/task/push.java -text
 src/com/tivo/kmttg/task/qsfix.java -text
