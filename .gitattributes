@@ -12,6 +12,7 @@ images/in-progress-transfer.png -text
 images/queued.png -text
 images/running.png -text
 images/save-until-i-delete-recording.png -text
+images/skipmode.png -text
 images/suggestion-recording.png -text
 lib/jmdns.jar -text
 lib/tivo-libre.jar -text
