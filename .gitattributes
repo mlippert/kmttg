@@ -1,6 +1,7 @@
 * text=auto !eol
 /.classpath -text
 /.project -text
+/baseDownload -text
 /build.xml -text
 images/cdata.p12 -text
 images/copy-protected.png -text
