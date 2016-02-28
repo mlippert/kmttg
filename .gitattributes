@@ -486,6 +486,7 @@ src/com/tivo/kmttg/main/tivoFileName.java -text
 src/com/tivo/kmttg/mind/EasySSLHelper.java -text
 src/com/tivo/kmttg/mind/Mind.java -text
 src/com/tivo/kmttg/mind/SimpleCookieManager.java -text
+src/com/tivo/kmttg/rpc/AutoSkip.java -text
 src/com/tivo/kmttg/rpc/Remote.java -text
 src/com/tivo/kmttg/rpc/SkipImport.java -text
 src/com/tivo/kmttg/rpc/SkipService.java -text
