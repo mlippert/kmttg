@@ -376,6 +376,11 @@ src/com/tivo/kmttg/JSON/JSONTokener.java -text
 src/com/tivo/kmttg/JSON/JSONWriter.java -text
 src/com/tivo/kmttg/JSON/XML.java -text
 src/com/tivo/kmttg/JSON/XMLTokener.java -text
+src/com/tivo/kmttg/captions/cc.java -text
+src/com/tivo/kmttg/captions/ccdiff.java -text
+src/com/tivo/kmttg/captions/srtReader.java -text
+src/com/tivo/kmttg/captions/srtSync.java -text
+src/com/tivo/kmttg/captions/util.java -text
 src/com/tivo/kmttg/gui/MyListView.java -text
 src/com/tivo/kmttg/gui/MyTooltip.java -text
 src/com/tivo/kmttg/gui/PopupHandler.java -text
@@ -490,6 +495,7 @@ src/com/tivo/kmttg/rpc/AutoSkip.java -text
 src/com/tivo/kmttg/rpc/Remote.java -text
 src/com/tivo/kmttg/rpc/SkipImport.java -text
 src/com/tivo/kmttg/rpc/SkipService.java -text
+src/com/tivo/kmttg/rpc/SkipShare.java -text
 src/com/tivo/kmttg/rpc/rnpl.java -text
 src/com/tivo/kmttg/task/NowPlaying.java -text
 src/com/tivo/kmttg/task/adcut.java -text
