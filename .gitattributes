@@ -399,6 +399,7 @@ src/com/tivo/kmttg/gui/dialog/AdvSearch.java -text
 src/com/tivo/kmttg/gui/dialog/Pushes.java -text
 src/com/tivo/kmttg/gui/dialog/ShowDetails.java -text
 src/com/tivo/kmttg/gui/dialog/SkipDialog.java -text
+src/com/tivo/kmttg/gui/dialog/SkipShare.java -text
 src/com/tivo/kmttg/gui/dialog/autoLogView.java -text
 src/com/tivo/kmttg/gui/dialog/autoTableEntry.java -text
 src/com/tivo/kmttg/gui/dialog/configAuto.java -text
