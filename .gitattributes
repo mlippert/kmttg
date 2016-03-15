@@ -496,6 +496,7 @@ src/com/tivo/kmttg/mind/SimpleCookieManager.java -text
 src/com/tivo/kmttg/rpc/AutoSkip.java -text
 src/com/tivo/kmttg/rpc/Remote.java -text
 src/com/tivo/kmttg/rpc/SkipImport.java -text
+src/com/tivo/kmttg/rpc/SkipManager.java -text
 src/com/tivo/kmttg/rpc/SkipService.java -text
 src/com/tivo/kmttg/rpc/SkipShare.java -text
 src/com/tivo/kmttg/rpc/rnpl.java -text
