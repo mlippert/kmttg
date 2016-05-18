@@ -4,6 +4,12 @@
 /LICENSE -text
 /baseDownload -text
 /build.xml -text
+images/TtGo_blue_16x16_32.png -text
+images/TtGo_blue_16x16_8.png -text
+images/TtGo_blue_32x32_32.png -text
+images/TtGo_blue_32x32_8.png -text
+images/TtGo_blue_48x48_32.png -text
+images/TtGo_blue_48x48_8.png -text
 images/cdata.p12 -text
 images/copy-protected.png -text
 images/expired-recording.png -text
