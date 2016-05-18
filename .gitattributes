@@ -26,6 +26,7 @@ lib/jmdns.jar -text
 lib/tivo-libre.jar -text
 release/LICENSE -text
 release/README.html -text
+release/TtGo_blue.ico -text
 release/VRDscripts/adcut.vbs -text
 release/VRDscripts/adscan.vbs -text
 release/VRDscripts/createShortClip.vbs -text
