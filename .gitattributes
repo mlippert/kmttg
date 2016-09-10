@@ -508,6 +508,7 @@ src/com/tivo/kmttg/rpc/SkipImport.java -text
 src/com/tivo/kmttg/rpc/SkipManager.java -text
 src/com/tivo/kmttg/rpc/SkipService.java -text
 src/com/tivo/kmttg/rpc/SkipShare.java -text
+src/com/tivo/kmttg/rpc/id.java -text
 src/com/tivo/kmttg/rpc/rnpl.java -text
 src/com/tivo/kmttg/task/NowPlaying.java -text
 src/com/tivo/kmttg/task/adcut.java -text
