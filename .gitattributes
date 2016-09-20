@@ -405,6 +405,7 @@ src/com/tivo/kmttg/gui/comparator/ImageComparator.java -text
 src/com/tivo/kmttg/gui/comparator/ShowComparator.java -text
 src/com/tivo/kmttg/gui/comparator/SizeComparator.java -text
 src/com/tivo/kmttg/gui/comparator/StringChannelComparator.java -text
+src/com/tivo/kmttg/gui/comparator/StringShowComparator.java -text
 src/com/tivo/kmttg/gui/dialog/AdvSearch.java -text
 src/com/tivo/kmttg/gui/dialog/Pushes.java -text
 src/com/tivo/kmttg/gui/dialog/ShowDetails.java -text
