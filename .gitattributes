@@ -398,6 +398,7 @@ src/com/tivo/kmttg/gui/PopupPair.java -text
 src/com/tivo/kmttg/gui/TableMap.java -text
 src/com/tivo/kmttg/gui/combobox.java -text
 src/com/tivo/kmttg/gui/comparator/ChannelComparator.java -text
+src/com/tivo/kmttg/gui/comparator/ChannelNumComparator.java -text
 src/com/tivo/kmttg/gui/comparator/DateComparator.java -text
 src/com/tivo/kmttg/gui/comparator/DoubleComparator.java -text
 src/com/tivo/kmttg/gui/comparator/DurationComparator.java -text
@@ -443,6 +444,7 @@ src/com/tivo/kmttg/gui/remote/tooltip.java -text
 src/com/tivo/kmttg/gui/remote/util.java -text
 src/com/tivo/kmttg/gui/slingboxgui.java -text
 src/com/tivo/kmttg/gui/sortable/sortableChannel.java -text
+src/com/tivo/kmttg/gui/sortable/sortableChannelNum.java -text
 src/com/tivo/kmttg/gui/sortable/sortableDate.java -text
 src/com/tivo/kmttg/gui/sortable/sortableDouble.java -text
 src/com/tivo/kmttg/gui/sortable/sortableDuration.java -text
