@@ -488,6 +488,7 @@ src/com/tivo/kmttg/install/baseDownload.java -text
 src/com/tivo/kmttg/install/mainInstall.java -text
 src/com/tivo/kmttg/install/toolDownload.java -text
 src/com/tivo/kmttg/install/update.java -text
+src/com/tivo/kmttg/install/util.java -text
 src/com/tivo/kmttg/main/CookieManager.java -text
 src/com/tivo/kmttg/main/auto.java -text
 src/com/tivo/kmttg/main/autoConfig.java -text
