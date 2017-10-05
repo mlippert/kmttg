@@ -15,6 +15,9 @@ images/copy-protected.png -text
 images/expired-recording.png -text
 images/expires-soon-recording.png -text
 images/folder.png -text
+images/image-season-pass-wishlist.png -text
+images/image-season-pass.png -text
+images/image-single-explicit-record.png -text
 images/in-progress-recording.png -text
 images/in-progress-transfer.png -text
 images/queued.png -text
