@@ -407,6 +407,7 @@ src/com/tivo/kmttg/gui/comparator/DateComparator.java -text
 src/com/tivo/kmttg/gui/comparator/DoubleComparator.java -text
 src/com/tivo/kmttg/gui/comparator/DurationComparator.java -text
 src/com/tivo/kmttg/gui/comparator/ImageComparator.java -text
+src/com/tivo/kmttg/gui/comparator/ImageViewComparator.java -text
 src/com/tivo/kmttg/gui/comparator/ShowComparator.java -text
 src/com/tivo/kmttg/gui/comparator/SizeComparator.java -text
 src/com/tivo/kmttg/gui/comparator/StringChannelComparator.java -text
