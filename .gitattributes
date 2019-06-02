@@ -380,6 +380,7 @@ release/web/js/rpc/SeasonPasses.js -text
 release/web/js/rpc/Stream.js -text
 release/web/js/rpc/ToDo.js -text
 release/web/js/rpc/util.js -text
+release/web/rc_apps.json -text
 src/com/tivo/kmttg/JSON/JSONArray.java -text
 src/com/tivo/kmttg/JSON/JSONException.java -text
 src/com/tivo/kmttg/JSON/JSONFile.java -text
@@ -438,7 +439,7 @@ src/com/tivo/kmttg/gui/remote/deleted.java -text
 src/com/tivo/kmttg/gui/remote/guide.java -text
 src/com/tivo/kmttg/gui/remote/info.java -text
 src/com/tivo/kmttg/gui/remote/premiere.java -text
-src/com/tivo/kmttg/gui/remote/remotecontrol.java -text
+src/com/tivo/kmttg/gui/remote/remotecontrol.java -text svneol=unset#text/plain
 src/com/tivo/kmttg/gui/remote/remotegui.java -text
 src/com/tivo/kmttg/gui/remote/search.java -text
 src/com/tivo/kmttg/gui/remote/seasonpasses.java -text
@@ -512,10 +513,11 @@ src/com/tivo/kmttg/mind/EasySSLHelper.java -text
 src/com/tivo/kmttg/mind/Mind.java -text
 src/com/tivo/kmttg/mind/SimpleCookieManager.java -text
 src/com/tivo/kmttg/rpc/AutoSkip.java -text
-src/com/tivo/kmttg/rpc/Remote.java -text
+src/com/tivo/kmttg/rpc/ChannelNavigator.java -text svneol=unset#text/plain
+src/com/tivo/kmttg/rpc/Remote.java -text svneol=unset#text/plain
 src/com/tivo/kmttg/rpc/SkipImport.java -text
 src/com/tivo/kmttg/rpc/SkipManager.java -text
-src/com/tivo/kmttg/rpc/SkipService.java -text
+src/com/tivo/kmttg/rpc/SkipService.java -text svneol=unset#text/plain
 src/com/tivo/kmttg/rpc/SkipShare.java -text
 src/com/tivo/kmttg/rpc/id.java -text
 src/com/tivo/kmttg/rpc/rnpl.java -text
