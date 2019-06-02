@@ -487,7 +487,7 @@ src/com/tivo/kmttg/httpserver/SocketProcessInputStream.java -text
 src/com/tivo/kmttg/httpserver/TiVoTranscode.java -text
 src/com/tivo/kmttg/httpserver/Transcode.java -text
 src/com/tivo/kmttg/httpserver/TranscodeTemplates.java -text
-src/com/tivo/kmttg/httpserver/kmttgServer.java -text
+src/com/tivo/kmttg/httpserver/kmttgServer.java -text svneol=unset#text/plain
 src/com/tivo/kmttg/install/Unzip.java -text
 src/com/tivo/kmttg/install/baseDownload.java -text
 src/com/tivo/kmttg/install/mainInstall.java -text
@@ -556,7 +556,7 @@ src/com/tivo/kmttg/util/NplItemXML.java -text
 src/com/tivo/kmttg/util/TwoWayHashmap.java -text
 src/com/tivo/kmttg/util/Xml.java -text
 src/com/tivo/kmttg/util/backgroundProcess.java -text
-src/com/tivo/kmttg/util/createMeta.java -text
+src/com/tivo/kmttg/util/createMeta.java -text svneol=unset#text/plain
 src/com/tivo/kmttg/util/debug.java -text
 src/com/tivo/kmttg/util/ffmpeg.java -text
 src/com/tivo/kmttg/util/file.java -text
