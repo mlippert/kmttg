@@ -32,13 +32,13 @@ import com.tivo.kmttg.JSON.JSONObject;
 /**
  * Establish an RPC connection route with a TiVo using the provided cdata files.
  * Not dependent on anything but java, javax.net.ssl, and com.tivo.kmttg.JSON.JSONObject.
- * Uses either the passed in cdata file with the default password, 
+ * Uses either the passed in cdata file with the default password,
  * or else the cdata.p12 and cdata.password files in the passed in programDir folder.
  *
  */
 public class TiVoRPC {
    private boolean debug;
-   
+
    private static final String SchemaVersion = "14";
    private static final String SchemaVersion_newer = "17";
    private static final int DEFAULT_PORT = 1413;
@@ -47,21 +47,21 @@ public class TiVoRPC {
     * @see #setSoTimeout(int)
     */
    private static final int timeout = 120;
-   
+
    private Boolean success = true;
-   
+
    protected final String tivoName;
    protected final String IP;
    protected final int port;
-   
+
    private String cdata = null;
    private String programDir;
-   
+
    protected boolean rpcOld;
 
    private int rpc_id = 0;
    private int session_id = 0;
-   
+
    private SSLSocket socket = null;
    private DataInputStream in = null;
    private DataOutputStream out = null;
@@ -78,11 +78,11 @@ public class TiVoRPC {
    protected void warn(String msg) {
       System.out.println("WARNING: "+msg);
    }
-   
+
    public TiVoRPC(String IP, String mak, String programDir) {
       this(null, IP, mak, programDir, -1, null, false, false);
    }
-   
+
    /**
     * Establish an authorized RPC connection.  Check {@link #getSuccess()} for result.
     * @param tivoName the "friendly name" of the TiVo device - not required by default implementation
@@ -105,7 +105,7 @@ public class TiVoRPC {
       this.port = port;
       RemoteInit(mak);
    }
-   
+
    /**
     * The result of initialization
     * @return true if the connection was established.
@@ -113,14 +113,14 @@ public class TiVoRPC {
    public boolean getSuccess() {
       return success;
    }
-   
+
    /**
     * calls {@link SSLSocket#setSoTimeout(int)}
     */
    protected void setSoTimeout(int timeout) throws SocketException {
       socket.setSoTimeout(timeout);
    }
-   
+
    /**
     * public method to perform a simple RpcRequest to get a single response.
     * @param type used to set the "RequestType" header, also put into data as "type"
@@ -135,7 +135,7 @@ public class TiVoRPC {
          return null;
       }
    }
-   
+
    /**
     * Define the request String (header and body) to transmit over the socket.
     * SchemaVersion header is defined based on constructor boolean or downgraded automatically on the first error response of "Unsupported schema version."
@@ -178,7 +178,7 @@ public class TiVoRPC {
          return null;
       }
    }
-   
+
    public void disconnect() {
     try {
        if (out != null) out.close();
@@ -194,20 +194,21 @@ public class TiVoRPC {
                   throws CertificateException {}
 
       // Doesn't throw an exception, so this is how it approves a certificate.
-      public void checkServerTrusted ( X509Certificate[] cert, String authType ) 
+      public void checkServerTrusted ( X509Certificate[] cert, String authType )
          throws CertificateException {}
 
       public X509Certificate[] getAcceptedIssuers () {
          return new X509Certificate[0];
       }
    }
-    
+
    private final void createSocketFactory() {
       if ( sslSocketFactory == null ) {
         try {
            KeyStore keyStore = KeyStore.getInstance("PKCS12");
            // This is default USA password
-           String password = "XF7x4714qw"; // expires 12/11/2022
+           String password = "vlZaKoduom"; // expires 5/3/2025
+           //String password = "XF7x4714qw"; // expires 12/11/2022
            //String password = "5vPNhg6sV4tD"; // expires 12/18/2020
            InputStream keyInput;
            if (cdata == null) {
@@ -239,7 +240,7 @@ public class TiVoRPC {
            context.init(fac.getKeyManagers(), tm, new SecureRandom());
            sslSocketFactory = context.getSocketFactory();
         } catch (KeyManagementException e) {
-          error("KeyManagementException - " + e.getMessage()); 
+          error("KeyManagementException - " + e.getMessage());
         } catch (NoSuchAlgorithmException e) {
           error("NoSuchAlgorithmException - " + e.getMessage());
         } catch (KeyStoreException e) {
@@ -269,9 +270,9 @@ public class TiVoRPC {
           socket.startHandshake();
           in = new DataInputStream(socket.getInputStream());
           out = new DataOutputStream(socket.getOutputStream());
-          
+
           success = Auth(MAK);
-          
+
        } catch (Exception e) {
           if (attempt == 0 && e.getMessage() != null && e.getMessage().contains("UNKNOWN ALERT")) {
              // Try it again as this could be temporary glitch
@@ -312,9 +313,9 @@ public class TiVoRPC {
        }
        return false;
     }
-    
+
    /**
-    * Write the request to the socket. 
+    * Write the request to the socket.
     * @param data
     * @return true if the write succeeded
     */
@@ -333,10 +334,10 @@ public class TiVoRPC {
       }
       return true;
    }
-   
+
    /**
     * Read the response after a Write.
-    * If the response type was "error" and the error was a "Unsupported schema version", sets rpcOld. 
+    * If the response type was "error" and the error was a "Unsupported schema version", sets rpcOld.
     * Adds the boolean header "IsFinal" as a value in the response.
     * @return the JSON response.
     */
@@ -345,7 +346,7 @@ public class TiVoRPC {
       String buf = "";
       Integer head_len;
       Integer body_len;
-      
+
       try {
          // Expect line of format: MRPC/2 76 1870
          // 1st number is header length, 2nd number body length
@@ -357,17 +358,17 @@ public class TiVoRPC {
             String[] split = buf.split(" ");
             head_len = Integer.parseInt(split[1]);
             body_len = Integer.parseInt(split[2]);
-            
+
             byte[] headers = new byte[head_len];
             readBytes(headers, head_len);
-   
+
             byte[] body = new byte[body_len];
             readBytes(body, body_len);
-            
+
             if (debug) {
                print("READ: " + new String(headers) + new String(body));
             }
-            
+
             // Pull out IsFinal value from header
             Boolean IsFinal;
             buf = new String(headers, "UTF8");
@@ -375,7 +376,7 @@ public class TiVoRPC {
                IsFinal = true;
             else
                IsFinal = false;
-            
+
             // Return json contents with IsFinal flag added
             buf = new String(body, "UTF8");
             JSONObject j = new JSONObject(buf);
@@ -405,5 +406,5 @@ public class TiVoRPC {
          bytesRead += in.read(body, bytesRead, len - bytesRead);
       }
    }
-   
+
 }
