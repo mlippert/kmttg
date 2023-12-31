@@ -1,2 +1,10 @@
+/rc_images
 /dist
-release/kmttg.jar
+/release
+/bin
+/.gradle
+/.settings
+/config.ini
+/css
+/cdata.*
+/*.jar
