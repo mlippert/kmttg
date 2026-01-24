@@ -23,7 +23,7 @@ public class JavaFX {
 			try {
 				int majorVersion = getJreMajorVersion();
 				if (majorVersion < 11) {
-					JOptionPane.showMessageDialog(null, "Your JRE is missing javafx.  KMTTG can auto download javafx for JRE 11+ however you ar running a older version.");
+					JOptionPane.showMessageDialog(null, "Your JRE is missing javafx.  KMTTG can auto download javafx for JRE 11-24.");
 				}
 
 				final File currentJar = new File(
@@ -73,11 +73,11 @@ public class JavaFX {
 		String downloadLink = "";
 		int majorVersion = getJreMajorVersion();
 		if (majorVersion < 17) {
-		   downloadLink = "https://download2.gluonhq.com/openjfx/17.0.15/openjfx-17.0.15_" +downloadOs+ "-" + arch + "_bin-sdk.zip";
+		   downloadLink = "https://download2.gluonhq.com/openjfx/17.0.18/openjfx-17.0.18_" +downloadOs+ "-" + arch + "_bin-sdk.zip";
 		} else if (majorVersion < 22) {
-			downloadLink = "https://download2.gluonhq.com/openjfx/21.0.7/openjfx-21.0.7_" +downloadOs+ "-" + arch + "_bin-sdk.zip";
+			downloadLink = "https://download2.gluonhq.com/openjfx/21.0.10/openjfx-21.0.10_" +downloadOs+ "-" + arch + "_bin-sdk.zip";
 		} else {
-		   downloadLink = "https://download2.gluonhq.com/openjfx/24.0.1/openjfx-24.0.1_" +downloadOs+ "-" + arch + "_bin-sdk.zip";
+		   downloadLink = "https://download2.gluonhq.com/openjfx/25.0.2/openjfx-25.0.2_" +downloadOs+ "-" + arch + "_bin-sdk.zip";
 		}
 		String zipFile = update.downloadUrl(zipName, downloadLink);
 		if (zipFile != null) {
